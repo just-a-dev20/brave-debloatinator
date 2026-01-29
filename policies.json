@@ -2,7 +2,7 @@
     "BraveRewardsDisabled": true,
     "BraveWalletDisabled": true,
     "BraveVPNDisabled": 1,
-    "BraveAIChatEnabled": true,
+    "BraveAIChatEnabled": false,
     "NewTabPageLocation": "https://search.brave.com",
     "PasswordManagerEnabled": false,
     "DnsOverHttpsMode": "automatic"
