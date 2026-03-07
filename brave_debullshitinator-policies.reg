@@ -7,5 +7,4 @@ Windows Registry Editor Version 5.00
 "BraveVPNDisabled"=dword:00000001
 "BraveAIChatEnabled"=dword:00000000
 "PasswordManagerEnabled"=dword:00000000
-"TorDisabled"=dword:00000001
 "DnsOverHttpsMode"="automatic"
