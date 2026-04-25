@@ -5,7 +5,7 @@ echo "This Brave debullshitinator is made by just-a-dev20. Find it here: https:/
 sudo mkdir /etc/brave/policies/managed -p
 # Download file
 wget https://raw.githubusercontent.com/just-a-dev20/brave-debloatinator/refs/heads/main/brave_debullshitinator-policies.json
-sudo cp policies.json /etc/brave/policies/managed
+sudo cp brave_debullshitinator-policies.json /etc/brave/policies/managed
 rm brave_debullshitinator-policies.json
 # End
 echo "Brave debullshitinator installed"
