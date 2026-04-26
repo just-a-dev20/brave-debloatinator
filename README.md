@@ -9,7 +9,6 @@ The following items are disabled by appling brave debullshitinator:
 
 * Brave rewards & Wallet
 * Brave VPN
-* Brave AI/Leo
 * Disables the password manager (I recommend using a third party password manager such as [Bitwarden](https://bitwarden.com) or [Proton Pass](https://proton.me/pass) that isn't tied to Brave sync or any one browser.)
 
 -------
